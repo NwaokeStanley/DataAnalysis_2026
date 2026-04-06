@@ -42,9 +42,16 @@ Why used: To clearly see patterns, I checked if imputation worked correctly, and
 Summary of the tools I used and what it did:
 
 base R: Loaded the dataset into R
+
 Dplyr : Removed unwanted columns
+
 Visdat: Created missing data heatmap
+
 Naniar: Performed Little's MCAR test
+
+
 Mice: Imputed missing values using PMM
+
 ggplot2: Created outlier detection plots
+
 Dbscan: Calculated LOF scores for multivariate outliers
