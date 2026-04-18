@@ -14,4 +14,5 @@ readr: Used to read data and its part of tidyverse
 tidyr: used t create  tidy data
 
 Conclusion of the analysis
+
 The analysis of continuous variables using the Shapiro-Wilk test revealed that most variables were non-normally distributed across outcome categories, often showing skewness or outliers, which required the use of appropriate summary statistics tailored to each variable’s distribution. Descriptive statistics highlighted notable differences in central tendency and variability among outcome groups for several variables, suggesting potential associations with the outcome. Finally, missing values in the lipids5 variable were successfully addressed through median imputation, improving dataset completeness without substantially altering the overall distribution patterns or key findings.
