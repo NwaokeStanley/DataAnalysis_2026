@@ -1,4 +1,4 @@
-Explanation for Homework 2 
+Explanation for HOME-WORK 2 
 
 Description of  the assignment
 I used the clinical dataset called  data_for_analysis from practical 2 class , which includes measurements of hormone levels, lipid profiles, carbohydrate metabolism, lipid peroxidation indicators, and antioxidant indices. 
