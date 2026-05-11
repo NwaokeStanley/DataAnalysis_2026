@@ -1,0 +1,10 @@
+hormone,t_test_p,welch_p,wilcox_p,brunner_munzel_p,recommendation,significant_bm,significant_wilcox,significant_ttest
+hormone1,0.1956,0.0513,0.7587,0.7498,"Brunner-Munzel (non-parametric, robust)",No,No,No
+hormone2,0.0939,0.1096,0.0054,0.0036,"Brunner-Munzel (non-parametric, robust)",Yes (p < 0.05),Yes (p < 0.05),No
+hormone3,0.3529,0.3599,0.1346,0.1309,"Brunner-Munzel (non-parametric, robust)",No,No,No
+hormone4,0.0496,0.0918,0.1482,0.1635,"Brunner-Munzel (non-parametric, robust)",No,No,Yes (p < 0.05)
+hormone5,0.0306,0.0061,0.0037,0.0031,"Brunner-Munzel (non-parametric, robust)",Yes (p < 0.05),Yes (p < 0.05),Yes (p < 0.05)
+hormone6,0.49,0.4577,0.816,0.8171,"Brunner-Munzel (non-parametric, robust)",No,No,No
+hormone7,0.9407,0.9416,0.9206,0.9219,"Brunner-Munzel (non-parametric, robust)",No,No,No
+hormone8,3e-04,0,4e-04,4e-04,"Brunner-Munzel (non-parametric, robust)",Yes (p < 0.05),Yes (p < 0.05),Yes (p < 0.05)
+hormone10_generated,0.6994,0.3404,0.7905,0.7884,"Brunner-Munzel (non-parametric, robust)",No,No,No
