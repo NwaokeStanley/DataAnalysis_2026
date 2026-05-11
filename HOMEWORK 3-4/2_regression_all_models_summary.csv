@@ -1,0 +1,16 @@
+"Response_Variable","Variable_Type","R_squared","Adj_R_squared","BIC","AIC","Num_Predictors","Predictors","Best_Predictor","Best_Predictor_Coef","Best_Predictor_Pvalue"
+"lipids5","Lipid",0.9997,0.9997,-920.05,-930.62,2,"lipids1, сarb_metabolism","lipids1",0.4562,0
+"lipids1","Lipid",0.9997,0.9997,-756.84,-767.42,2,"lipids5, сarb_metabolism","lipids5",2.1913,0
+"lipids3","Lipid",0.9358,0.9339,-235.79,-249.01,3,"lipids1, lipids2, lipids4","lipids2",0.9234,0
+"lipids4","Lipid",0.9947,0.9946,-226.36,-239.58,3,"lipids1, lipids2, lipids3","lipids3",-1.0085,0
+"lipids2","Lipid",0.9954,0.9953,-226.23,-239.46,3,"lipids1, lipids3, lipids4","lipids3",1.0123,0
+"antioxidant1","Antioxidant",0.0557,0.0464,-45.7,-53.63,1,"factor_eth","factor_eth",0.0601,0.015899
+"lipid_pero3","Lipid Peroxidation",0.5823,0.5782,-9.91,-17.85,1,"lipid_pero2","lipid_pero2",0.482,0
+"antioxidant5","Antioxidant",0.1429,0.1345,11.58,3.65,1,"antioxidant4","antioxidant4",0.0401,7.6e-05
+"lipid_pero2","Lipid Peroxidation",0.6787,0.6724,62.99,52.42,2,"lipid_pero1, lipid_pero3","lipid_pero3",0.9256,0
+"antioxidant2","Antioxidant",0,0,109.58,104.29,0,"","none",NA,NA
+"antioxidant3","Antioxidant",0,0,116.56,111.28,0,"","none",NA,NA
+"lipid_pero1","Lipid Peroxidation",0.4543,0.4435,168.24,157.67,2,"lipid_pero2, lipid_pero5","lipid_pero2",0.8404,0
+"lipid_pero4","Lipid Peroxidation",0.1038,0.0861,200.95,190.38,2,"lipids1, lipid_pero2","lipids1",0.4205,0.010252
+"antioxidant4","Antioxidant",0.1429,0.1345,478.29,470.36,1,"antioxidant5","antioxidant5",3.5643,7.6e-05
+"lipid_pero5","Lipid Peroxidation",0,0,544.97,539.68,0,"","none",NA,NA

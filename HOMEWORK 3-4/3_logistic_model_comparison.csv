@@ -1,0 +1,6 @@
+"Model","AIC","BIC","Num_Predictors"
+"Simple: hormone8",916.57,926.66,1
+"Stepwise (BIC)",916.57,926.66,1
+"Null (Intercept only)",928.88,933.92,0
+"Forward (AIC)",913.12,938.34,4
+"All Hormones",919.31,969.76,9
