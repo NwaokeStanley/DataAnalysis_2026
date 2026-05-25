@@ -1,0 +1,32 @@
+========================================
+CLUSTER COMPOSITION
+========================================
+
+FOR 2 CLUSTERS:
+----------------
+
+Cluster 1 ( 4 sites):
+   Ledyanaya Gora
+  Ladyginskie Yary 
+  Sopochnaya Karga  
+  Chernyi Bay 
+
+Cluster 2 ( 2 sites):
+   Karaul village
+  Sibiryakov Island, Srednee Lake 
+
+
+FOR 3 CLUSTERS:
+----------------
+
+Cluster 1 ( 2 sites):
+   Ledyanaya Gora
+  Sopochnaya Karga   
+
+Cluster 2 ( 2 sites):
+   Karaul village
+  Sibiryakov Island, Srednee Lake 
+
+Cluster 3 ( 2 sites):
+   Ladyginskie Yary 
+  Chernyi Bay 

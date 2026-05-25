@@ -1,0 +1,48 @@
+========================================
+PERMANOVA RESULTS (Bray-Curtis Distance)
+========================================
+
+Null hypothesis: No difference in species composition between clusters
+Permutations: 999 
+Distance method: Bray-Curtis
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+FOR 2 CLUSTERS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Permutation test for adonis under reduced model
+Permutation: free
+Number of permutations: 719
+
+adonis2(formula = data ~ clusters_2, permutations = 999, method = "bray")
+         Df SumOfSqs      R2      F  Pr(>F)  
+Model     1  0.49182 0.40881 2.7661 0.06667 .
+Residual  4  0.71121 0.59119                 
+Total     5  1.20303 1.00000                 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+R² = 0.4088 
+R² (%) = 40.88 % of variation explained
+p-value = 0.0666666666666667 
+
+✗ CONCLUSION (2 clusters): Differences are NOT significant (p > 0.05)
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+FOR 3 CLUSTERS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Permutation test for adonis under reduced model
+Permutation: free
+Number of permutations: 719
+
+adonis2(formula = data ~ clusters_3, permutations = 999, method = "bray")
+         Df SumOfSqs      R2      F Pr(>F)
+Model     1  0.28277 0.23505 1.2291 0.3333
+Residual  4  0.92026 0.76495              
+Total     5  1.20303 1.00000              
+
+R² = 0.235 
+R² (%) = 23.5 % of variation explained
+p-value = 0.333333333333333 
+
+✗ CONCLUSION (3 clusters): Differences are NOT significant (p > 0.05)

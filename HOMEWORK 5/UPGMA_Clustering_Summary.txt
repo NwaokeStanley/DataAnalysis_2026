@@ -1,0 +1,10 @@
+========================================
+UPGMA CLUSTERING RESULTS
+========================================
+
+Clustering method: UPGMA (average linkage)
+Distance method: Bray-Curtis
+Number of sites clustered: 6 
+
+Cophenetic correlation coefficient: 0.7535 
+  Good fit (>0.7)

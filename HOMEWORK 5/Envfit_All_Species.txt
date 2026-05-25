@@ -1,0 +1,48 @@
+========================================
+ENVFIT RESULTS - ALL SPECIES
+========================================
+
+
+***VECTORS
+
+                                     NMDS1    NMDS2     r2  Pr(>r)  
+Chrysosphaerella brevispina       -0.66121  0.75020 0.3455 0.46667  
+C. coronacircumspina              -0.79077 -0.61212 0.4848 0.33333  
+C. longispina                     -0.93464 -0.35558 0.2212 1.00000  
+Chrysosphaerella sp.              -0.93464 -0.35558 0.2212 1.00000  
+Paraphysomonas bandaiensis        -0.11751  0.99307 0.4327 0.50000  
+P. gladiata                       -0.91724 -0.39833 0.8054 0.20000  
+P. vestita                        -0.59468  0.80396 0.8708 0.10000 .
+Paraphysomonas sp.                -0.11751  0.99307 0.4327 0.50000  
+Mallomonas akrokomos              -0.98205  0.18864 0.7289 0.16667  
+\xcc. alata f. alata              -0.39959 -0.91669 0.5227 0.36667  
+M. alata f. hualvensis             0.99246  0.12254 0.3743 0.66667  
+M. caudata                         0.91724  0.39833 0.8054 0.20000  
+M. crassisquama                   -0.98106  0.19372 0.5495 0.31667  
+M. crassiquama var. papillosa     -0.93688  0.34965 0.3509 0.52500  
+M. heterospina                     0.47485  0.88007 0.2112 0.73333  
+M. insignis                       -0.01733  0.99985 0.3742 0.50000  
+M. striata var. striata            0.09720  0.99527 0.1843 0.70000  
+M. tonsurata                       0.01722 -0.99985 0.6553 0.16667  
+Chrysodidymus synuroideus         -0.49505  0.86887 0.2657 0.83333  
+Spiniferomonas abei               -0.64211 -0.76661 0.8758 0.13333  
+S. bilacunosa                     -0.79696 -0.60404 0.9373 0.06667 .
+S. bourrellyi                     -0.79696 -0.60404 0.9373 0.06667 .
+S. cornuta                        -0.66415 -0.74760 0.8398 0.03333 *
+S. crusigera                      -0.42607 -0.90469 0.6323 0.16667  
+S. serrata                        -0.66121  0.75020 0.3455 0.46667  
+S. triangularis                   -0.42607 -0.90469 0.6323 0.16667  
+S. trioralis f. trioralis         -0.64211 -0.76661 0.8758 0.13333  
+S. trioralis f. cuspidata         -0.66121  0.75020 0.3455 0.46667  
+Spiniferomonas  sp.               -0.93464 -0.35558 0.2212 1.00000  
+Synura echinulata f. leptorrhabda -0.41365  0.91044 0.8360 0.11667  
+S. petersenii f. petersenii       -0.28434  0.95872 0.8162 0.20000  
+S. petersenii f. kufferathii      -0.14081  0.99004 0.7471 0.15833  
+S. punctulosa                     -0.93464 -0.35558 0.2212 1.00000  
+S. spinosa                         0.32633  0.94526 0.0747 0.90000  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Permutation: free
+Number of permutations: 719
+
+
